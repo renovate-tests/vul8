@@ -2,5 +2,7 @@
   "dependencies": {
     "express": "4.0.0"
   },
-  "renovate": {}
+  "renovate": {
+    "transitiveRemediation": true
+  }
 }
